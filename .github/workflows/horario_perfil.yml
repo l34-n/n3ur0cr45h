@@ -1,0 +1,59 @@
+name: Atualização de Horário no Perfil
+
+on:
+  schedule:
+    - cron: '0 8 * * *'  
+  workflow_dispatch:  
+permissions:
+         contents: write
+
+jobs:
+  update-profile:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Verifica a Branch "Main"
+      uses: actions/checkout@v2
+      with:
+        ref: main  
+
+    - name: 1. Configura o Git
+      run: |
+        git config --global user.name "N3UR0-CR45H"
+        git config --global user.email "N3UR0-CR45H"
+        
+    - name: 2. Define Fuso Horário para o Brasil (BRT)
+      run: |
+        sudo timedatectl set-timezone America/Sao_Paulo
+        
+    - name: 3. Printa o Horário de São Paulo
+      run: |
+        # Exibe a hora local no Brasil em português
+        echo "Hora atual no Brasil (BRT): $(date +'%A, %d / %B / %Y, %H:%M:%S')"
+    
+    - name: 4. Verifica o Conteúdo do Repositório
+      run: |
+        echo "Verificando conteúdo do repositório:"
+        cat README.md  
+        
+    - name: 5. Remove o Último Horário Adicionado
+      run: |
+        sed -i '$d' README.md  
+        git add README.md
+        git status  
+
+    - name: 6. Altera README.md
+      run: |
+        echo "Last Updated: $(date +'%A, %d / %B / %Y, %H:%M:%S')" >> README.md
+        git add README.md
+        git status  
+        git commit -m "Atualização automática do perfil  $(date +'%A, %d / %B / %Y, %H:%M:%S')"
+
+    - name: 7. Verifica o Commit 
+      run: |
+        echo "Verificando commit"
+        git log --oneline  
+
+    - name: 8. Empurrando na Main
+      run: |
+        git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git main
