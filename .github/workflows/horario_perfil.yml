@@ -19,8 +19,8 @@ jobs:
 
     - name: 1. Configura o Git
       run: |
-        git config --global user.name "N3UR0-CR45H"
-        git config --global user.email "N3UR0-CR45H"
+        git config --global user.name "n3ur0cr45h"
+        git config --global user.email "n3ur0cr45h"
         
     - name: 2. Define Fuso Horário para o Brasil (BRT)
       run: |
