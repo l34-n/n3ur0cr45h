@@ -5,7 +5,7 @@
       
 <div align="center">
   <a rel="nofollow" href="https://github.com/n3ur0cr45h/n3ur0cr45h/blob/main/Projetos.jpg">
-    <img width="35%" src="./Projetos.jpg">
+    <img width="40%" src="./Projetos.jpg">
     
 <br>
 
