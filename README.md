@@ -13,7 +13,7 @@
   <a href="https://github.com/n3ur0cr45h/Ansible"> <img src="https://skillicons.dev/icons?i=ansible" /></a> 
   <a href="https://github.com/n3ur0cr45h/Grafana"> <img src="https://skillicons.dev/icons?i=grafana" /></a> 
   <a href="https://github.com/n3ur0cr45h/Ubuntu"> <img src="https://skillicons.dev/icons?i=ubuntu" /></a>     
-  <a href="https://github.com/n3ur0cr45h/Vagrant"> <img width="5.9%" src="https://github.com/n3ur0cr45h/n3ur0cr45h/blob/main/vagrant.png" /></a>  
+  <a href="https://github.com/n3ur0cr45h/Vagrant"> <img src="https://skillicons.dev/icons?i=v" /></a>  
 </div> 
 <br>
 <br>
