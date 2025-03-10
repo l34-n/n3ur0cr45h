@@ -1,6 +1,6 @@
 
 <div align="center">
-![Smiley](smileyoncomputer2.gif)
+ <img src="https://github.com/n3ur0cr45h/n3ur0cr45h/blob/main/smileyoncomputerX.gif" />
 </div>    
 
 <br>
