@@ -20,8 +20,8 @@ jobs:
 
       - name: Commit e push se houver mudanças
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "n3ur0cr45h"
+          git config --global user.email "n3ur0cr45h@github.com"
           git add smiley.gif
           git commit -m "Atualizando smiley.gif para um novo aleatório" || exit 0
           git push
