@@ -1,6 +1,6 @@
 
 <div align="center">
-![Smiley](smiley.gif)
+![Smiley](smileyoncomputer1.gif)
 </div>    
 
 <br>
