@@ -1,8 +1,6 @@
 
 <div align="center">
-  <a rel="nofollow" href="https://github.com/n3ur0cr45h/n3ur0cr45h/blob/main/smileyoncomputer1.gif">
-    <img src="./smileyoncomputer1.gif">
-  </a>
+![Smiley](smiley.gif)
 </div>    
 
 <br>
