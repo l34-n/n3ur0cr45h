@@ -1,6 +1,6 @@
 
 <div align="center">
-![Smiley](smiley.gif?v=${{ secrets.RUN_NUMBER }})
+![Smiley](smileyoncomputer2.gif)
 </div>    
 
 <br>
