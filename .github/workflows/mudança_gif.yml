@@ -1,0 +1,27 @@
+name: Update README GIF
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  
+  workflow_dispatch: 
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v4
+
+      - name: Escolher um GIF aleatório
+        run: |
+          RANDOM_NUM=$((1 + RANDOM % 6))
+          cp "smileyoncomputer$RANDOM_NUM.gif" smiley.gif
+
+      - name: Commit e push se houver mudanças
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add smiley.gif
+          git commit -m "Atualizando smiley.gif para um novo aleatório" || exit 0
+          git push
