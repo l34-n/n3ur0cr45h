@@ -29,3 +29,4 @@ jobs:
           git add README.md
           git commit -m "Atualizando GIF no README" || exit 0
           git push
+
