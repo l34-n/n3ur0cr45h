@@ -3,7 +3,7 @@ name: Update README GIF
 on:
   schedule:
     - cron: "0 0 * * *"  # Executa todo dia à meia-noite UTC
-  workflow_dispatch:
+  workflow_dispatch:  # Permite execução manual
 
 jobs:
   update-readme:
@@ -16,11 +16,7 @@ jobs:
       - name: Escolher um GIF aleatório
         run: |
           RANDOM_NUM=$((1 + RANDOM % 6))
-          echo "SELECTED_GIF=smileyoncomputer$RANDOM_NUM.gif" >> $GITHUB_ENV
-
-      - name: Atualizar README.md
-        run: |
-          sed -i "s|!\[Smiley\](.*)|![Smiley]($SELECTED_GIF)|" README.md
+          cp "smileyoncomputer$RANDOM_NUM.gif" smiley.gif
 
       - name: Commit e push se houver mudanças
         run: |
