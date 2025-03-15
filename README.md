@@ -20,6 +20,7 @@
   <a href="https://github.com/n3ur0cr45h/Grafana"> <img src="https://skillicons.dev/icons?i=grafana" /></a> 
   <a href="https://github.com/n3ur0cr45h/Ubuntu"> <img src="https://skillicons.dev/icons?i=ubuntu" /></a>     
   <a href="https://github.com/n3ur0cr45h/Vagrant"> <img src="https://skillicons.dev/icons?i=v" /></a>  
+  <a href="https://github.com/n3ur0cr45h/Azure"> <img src="https://skillicons.dev/icons?i=azure" /></a>  
 </div> 
 
 <br>
