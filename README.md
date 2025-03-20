@@ -1,6 +1,6 @@
 
 <div align="center">
- <img src="https://github.com/n3ur0cr45h/n3ur0cr45h/blob/main/smileyoncomputer6.gif" />
+ <img src="https://github.com/n3ur0cr45h/n3ur0cr45h/blob/main/smileyoncomputer3.gif" />
 </div>    
 
 <br>
