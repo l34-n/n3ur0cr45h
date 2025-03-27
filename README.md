@@ -17,8 +17,8 @@
 
 <div align="center">
   <a href="https://github.com/n3ur0cr45h/Ansible"> <img src="https://go-skill-icons.vercel.app/api/icons?i=ansible"/></a> 
-  <a href="https://github.com/n3ur0cr45h/Ansible"> <img src="https://go-skill-icons.vercel.app/api/icons?i=grafana"/></a> 
-  <a href="https://github.com/n3ur0cr45h/Ansible"> <img src="https://go-skill-icons.vercel.app/api/icons?i=ubuntu" /></a>                                                     
+  <a href="https://github.com/n3ur0cr45h/Grafana"> <img src="https://go-skill-icons.vercel.app/api/icons?i=grafana"/></a> 
+  <a href="https://github.com/n3ur0cr45h/Ubuntu"> <img src="https://go-skill-icons.vercel.app/api/icons?i=ubuntu" /></a>                                                     
   <a href="https://github.com/n3ur0cr45h/Vagrant"> <img src="https://go-skill-icons.vercel.app/api/icons?i=vagrant"/></a>  
 </div> 
 
