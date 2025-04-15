@@ -21,6 +21,7 @@
   <a href="https://github.com/n3ur0cr45h/Ubuntu"> <img src="https://go-skill-icons.vercel.app/api/icons?i=ubuntu" /></a>                                                     
   <a href="https://github.com/n3ur0cr45h/Vagrant"> <img src="https://go-skill-icons.vercel.app/api/icons?i=vagrant"/></a>  
   <a href="https://github.com/n3ur0cr45h/RHEL"> <img src="https://go-skill-icons.vercel.app/api/icons?i=redhat"/></a>  
+   <a href="https://github.com/n3ur0cr45h/Terraform"> <img src="https://go-skill-icons.vercel.app/api/icons?i=terraform"/></a>  
 </div> 
 
 <br>
