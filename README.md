@@ -1,16 +1,21 @@
 
 <div align="center">
- <img src="https://github.com/n3ur0cr45h/n3ur0cr45h/blob/main/smileyoncomputer2.gif" />
+ <img src="https://github.com/n3ur0cr45h/n3ur0cr45h/blob/main/smileyoncomputer2.gif" />          
+
+
 </div>    
 
 <br>
 <br>
-<br>
     
 <div align="center">
-  <a rel="nofollow" href="https://github.com/n3ur0cr45h/n3ur0cr45h/blob/main/Projetos.jpg">
-    <img width="40%" src="./Projetos.jpg">
-  </a>
+ ██████╗░██████╗░░█████╗░░░░░░██╗███████╗████████╗░█████╗░░██████╗
+██╔══██╗██╔══██╗██╔══██╗░░░░░██║██╔════╝╚══██╔══╝██╔══██╗██╔════╝
+██████╔╝██████╔╝██║░░██║░░░░░██║█████╗░░░░░██║░░░██║░░██║╚█████╗░
+██╔═══╝░██╔══██╗██║░░██║██╗░░██║██╔══╝░░░░░██║░░░██║░░██║░╚═══██╗
+██║░░░░░██║░░██║╚█████╔╝╚█████╔╝███████╗░░░██║░░░╚█████╔╝██████╔╝
+╚═╝░░░░░╚═╝░░╚═╝░╚════╝░░╚════╝░╚══════╝░░░╚═╝░░░░╚════╝░╚═════╝░
+
 </div>   
 
 <br>
