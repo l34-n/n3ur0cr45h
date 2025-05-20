@@ -32,6 +32,7 @@
   <a href="https://github.com/n3ur0cr45h/RHEL"> <img src="https://go-skill-icons.vercel.app/api/icons?i=redhat"/></a>  
   <a href="https://github.com/n3ur0cr45h/Terraform"> <img src="https://go-skill-icons.vercel.app/api/icons?i=terraform"/></a>  
   <a href="https://github.com/n3ur0cr45h/RabbitMQ"> <img src="https://go-skill-icons.vercel.app/api/icons?i=rabbitmq"/></a>  
+  <a href="https://github.com/n3ur0cr45h/Kubernetes"> <img src="https://go-skill-icons.vercel.app/api/icons?i=kubernetes"/></a>  
 </div> 
 
 <br>
